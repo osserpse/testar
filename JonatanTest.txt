@@ -3,3 +3,5 @@ Jonatans fil
 En ny rad
 
 En rad lokalt
+
+Ändrat i master, på GitHub
